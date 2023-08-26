@@ -1,11 +1,14 @@
 # comp4971c
 
-Author - myworldbox
-
-
-<a href="https://github.com/myworldbox"><img src="https://myworldbox.github.io/resource/image/portrait/VL_0.jpeg" align="left" height="150" width="150" ></a>
+<br/>
 
 # Multiple Model-based Binary Classification for Forex Trading
+
+<br/>
+
+Author - myworldbox
+
+<br/>
 
 # Swing Trading
 
