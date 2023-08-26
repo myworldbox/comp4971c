@@ -17,10 +17,10 @@ Author - myworldbox
 #### Sharpe Ratio
 
 ##### Report
-<img src="./image/day_trading/swing_ss_report.png" align="left">
+<img src="./image/swing_trading/swing_ss_report.png" align="left">
 
 ##### Graph
-<img src="./image/day_trading/swing_ss_graph.png" align="left">
+<img src="./image/swing_trading/swing_ss_graph.png" align="left">
 
 #### Compounded Annual Growth Rate
 
