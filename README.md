@@ -1,14 +1,8 @@
 # comp4971c
 
-<br/>
-
 Multiple Model-based Binary Classification for Forex Trading
 
-<br/>
-
 Author - myworldbox
-
-<br/>
 
 ## Swing Trading
 
