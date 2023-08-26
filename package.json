@@ -1,0 +1,9 @@
+{
+  "name": "comp4971c",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "commit": "npm run commit:npm",
+    "commit:npm": "git add . && git commit -a -m '%npm_config_comment%' && git push"
+  }
+}
